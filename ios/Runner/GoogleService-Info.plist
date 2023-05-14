@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>732914476826-5nuapucp5vlg87ahmbefncrq4ferg0b0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.732914476826-5nuapucp5vlg87ahmbefncrq4ferg0b0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDunczghSeQ4UxRn4VrZErHDwwVUQUd0Z8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>732914476826</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.measure</string>
+	<key>PROJECT_ID</key>
+	<string>reservoir-measure</string>
+	<key>STORAGE_BUCKET</key>
+	<string>reservoir-measure.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:732914476826:ios:d49f66ca4153129f212ea3</string>
+	<key>DATABASE_URL</key>
+	<string>https://reservoir-measure-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

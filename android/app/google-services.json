@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "732914476826",
+    "firebase_url": "https://reservoir-measure-default-rtdb.firebaseio.com",
+    "project_id": "reservoir-measure",
+    "storage_bucket": "reservoir-measure.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732914476826:android:95e7adbeb753cfae212ea3",
+        "android_client_info": {
+          "package_name": "com.example.measure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732914476826-9cn9lfcj34fqi40v7undveggeu23ounh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB82fgmZ4kakVwtfQn7u3m1-sLWO5hTjM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732914476826-9cn9lfcj34fqi40v7undveggeu23ounh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
